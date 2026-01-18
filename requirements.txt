@@ -1,0 +1,9 @@
+flask
+python-dotenv
+requests
+groq
+psycopg2-binary
+gunicorn
+python-telegram-bot==20.3
+google-generativeai
+openai
